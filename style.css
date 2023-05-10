@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.secondary-nav {
+    display: flex;
+    justify-content:space-around;
+    margin-bottom: 1rem;
+}
+
+.img-size {
+    width: 30em;
+}
+
+.img-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1em;
+}
+
+article {
+    flex-direction: column;
+    padding-left: 10em;
+    padding-right: 40em;
+    justify-content: space-between;
+}
